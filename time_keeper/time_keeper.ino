@@ -14,7 +14,6 @@ void setup() {
 void loop() {
   digitalClockDisplay();
   delay(1000);
-
 }
 
 
